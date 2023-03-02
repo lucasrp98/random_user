@@ -1,16 +1,52 @@
-# treinow
+# Random User
 
-A new Flutter project.
+<p align="center">🚀 Esse projeto foi utilizado para demonstrar os meus conhecimentos no consumo de API's e construir minhas tela a partir do consumo da API RANDOM USER GENERATOR🚀</p>
 
-## Getting Started
+<img src="https://img.shields.io/static/v1?label=Flutter&message=Random_User&color=7159c1&style=for-the-badge&logo=ghost"/>
 
-This project is a starting point for a Flutter application.
+### Pré-requisitos
 
-A few resources to get you started if this is your first Flutter project:
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) e Android Studio (https://developer.android.com/studio)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Realize o download do projeto
+
+1. git clone https://github.com/lucasrp98/random_user
+2. instale o emulador no Andoid Studio
+3. inicialize o emulador ou utilize o seu smartphone como emulador
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Flutter](https://flutter.dev/)
+
+### Status
+<h4 align="center"> 
+	🚧  Flutter Select 🚀 Em construção ...  🚧
+</h4>
+
+
+### Screenshots
+
+Página Inicial: Nesta tela é onde ocorre o funcionamento do aplicativo, no qual usuário clica em um botão e se altera o usuário.
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Tela_Inicial.png" width="800" height="1000"/>
+</h1>
+
+### Autor
+
+Feito de ❤️ por Lucas Ribeiro👋🏽 Entre em contato!
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://avatars.githubusercontent.com/u/102001519?s=400&u=445ed2f86820cfae35c3857d9ebce7edde871327&v=4"  />
+</h1>
+
+<div>
+<a href="https://www.instagram.com/lucasribeiroo_98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "lucaorpacheco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-ribeiro-582871169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
