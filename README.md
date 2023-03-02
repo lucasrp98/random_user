@@ -33,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Página Inicial: Nesta tela é onde ocorre o funcionamento do aplicativo, no qual usuário clica em um botão e se altera o usuário.
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Tela_Inicial.png" width="800" height="1000"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./images/Tela_Inicial.png" width="250"/>
 </h1>
 
 ### Autor
